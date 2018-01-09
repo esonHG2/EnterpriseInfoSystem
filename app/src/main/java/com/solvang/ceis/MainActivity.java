@@ -41,6 +41,3 @@ public class MainActivity extends AppCompatActivity {
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
     }
 }
-
-
-fox노트북 데스크 탑과 연동 테스트
