@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
     }
-
 }
- FOXdesktop 업로드 테스트
+
+
+fox노트북 데스크 탑과 연동 테스트
